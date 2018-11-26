@@ -7,7 +7,7 @@
 Paragraph text here
 
 
-```ruby
+```java
 puts This is code
 If this then that
 ```
