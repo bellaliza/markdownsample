@@ -5,3 +5,9 @@
 * Bullet 2
 
 Paragraph text here
+
+
+```
+puts "This is code"
+If this then that
+```
