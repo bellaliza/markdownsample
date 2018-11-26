@@ -8,6 +8,6 @@ Paragraph text here
 
 
 ```java
-puts This is code
+puts "This is code"
 If this then that
 ```
