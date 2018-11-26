@@ -7,7 +7,7 @@
 Paragraph text here
 
 
-```.Net
+```ruby
 puts "This is code"
 If this then that
 ```
