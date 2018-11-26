@@ -11,3 +11,6 @@ Paragraph text here
 puts "This is code"
 If this then that
 ```
+
+This is CoxAuto and Mulesoft website use case [Look CoxAuto](https://www.mulesoft.com/case-studies/api/cox-automotive).
+
